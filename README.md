@@ -1,2 +1,2 @@
 # DS-CourseHub
-This is going to be a repo for my data science course on Udemy where I am going to upload my code and exercises
+This is going to be a repo for my code for the "The Data Science Course: Complete Data Science Bootcamp 2024" on Udemy
